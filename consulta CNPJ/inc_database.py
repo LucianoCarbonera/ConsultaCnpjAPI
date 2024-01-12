@@ -1,6 +1,5 @@
 # -----------------------------------------------------------------------------+
-# Alfa Transportes Eireli                                                      \
-#  Classe para banco de dados                        		          \
+# Classe para banco de dados Postgres                     		          \
 # Cacador, 25 de Junho de 2021                                                 \
 # Luciano Carbonera                                                            \
 # -----------------------------------------------------------------------------+
