@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------+
-# Alfa Transportes Eireli                                                      |
+# Transportes Eireli                                                      |
 # Consulta de CNPJ via web services                                            |
 # Cacador, 25 de Junho de 2021                                                 |
 # Luciano Carbonera                                                            |
@@ -130,7 +130,7 @@ dict_dados = {
 pprint(dict_dados)
 #--------------------------------------------------------------------------------------------------------
 
-#cnpj = '40384198000179'
+#cnpj = ''
 #print(inc_api.dados_cnpj_receita_ws(cnpj))
 #print(inc_api.dados_simples_nfe_io(cnpj))
 #print(inc_api.dados_ie_nfe_io(cnpj))
